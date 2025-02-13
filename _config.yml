@@ -5,7 +5,7 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
 email: tjucta@163.com
 description: ""
 keyword: ""
-url: "http://clouduh.cn"              # your host, for absolute URL
+url: "http://liucts.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
