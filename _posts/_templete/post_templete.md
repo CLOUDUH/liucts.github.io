@@ -4,7 +4,7 @@ title: ""
 subtitle: ""
 date: {{date}}
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
+header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/labimg/home-bg.jpg
 permalink: /post/{{date}}
 tags:
 - X
